@@ -1,4 +1,4 @@
-# Kodprov_Gisys
+## Beskrivning
 
 Kodprov för Gisys 
 
@@ -13,4 +13,15 @@ Specifik anställd
 En vy där man ser all information om den anställde
 
 
-Kodprov Gisys
+### Innan du startar prjektet
+
+#### Installera moduler
+<pre>
+  npm install
+</pre>
+
+#### Starta projektet
+<pre>
+ npm start
+</pre>
+
