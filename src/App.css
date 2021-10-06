@@ -1,0 +1,52 @@
+*{
+  font-family: "Times New Roman", Georgia, serif;
+}
+body{
+  background-color:#1f253b;
+}
+.notFetchedYetText{
+  font-size: 50px;
+  color: black;
+  text-align: center;
+  margin-top: 20%;
+}
+.errorMessage{
+  font-size: 20px;
+  color: black;
+  text-align: center;
+  margin-top: 20%;
+}
+
+.container{
+  width: 60%;
+  height: 60%;
+  position: absolute;
+  top: 10%;
+  left: 20%;
+  right: 20%;
+}
+.windowedScreen{
+  height: 100%;
+  overflow: auto;
+  background: white;
+}
+.employeeButton {
+  background-color: #66FCF1;
+  width: 300px;
+  border: none;
+  color: black;
+  padding: 10px 10px;
+  text-align: center;
+  display: inline-block;
+  font-size: 20px;
+  margin-bottom: 1px;
+  margin-top: 1px;
+  font-weight: bold;  
+}
+.employeeButton:hover{
+  background-color: lime;
+}
+.employeePopUp{
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+}
