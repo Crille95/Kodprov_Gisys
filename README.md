@@ -13,7 +13,7 @@ Specifik anställd
 En vy där man ser all information om den anställde
 
 
-### Innan du startar prjektet
+### Innan du startar projektet
 
 #### Installera moduler
 <pre>
